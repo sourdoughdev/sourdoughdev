@@ -1,4 +1,4 @@
-👋🏻 I’m Thomas McGoey-Smith, a software developer (and avid sourdough baker) based in Victoria, British Columbia 🇨🇦.
+👋🏻 I’m Thomas Edgesmith, a software developer (and avid sourdough baker) based in Victoria, British Columbia 🇨🇦.
 
 
 **During the day**
